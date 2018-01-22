@@ -6,13 +6,13 @@
   <Name>com.beopensoft.root</Name>
   <DisplayName>SousChefGUI</DisplayName>
   <Description>Gui part of SousChef Plugin</Description>
-  <Version>1.0.0</Version>
+  <Version>1.0.1</Version>
   <ReleaseDate>2018-01-22</ReleaseDate>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Essential>true</Essential>
-  <UpdateFile OS="Any" UncompressedSize="1795537" CompressedSize="268630"/>
+  <UpdateFile UncompressedSize="326784" CompressedSize="126983" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>e3297da2bafeda036f963c71c0721fdbfce195b5</SHA1>
+  <SHA1>4bd23fc51a8c7a6e4734f7b3cd1cadabb522a6eb</SHA1>
  </PackageUpdate>
 </Updates>
