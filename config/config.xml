@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>SousChef Monitor</Name>
+    <Version>1.0.0</Version>
+    <Title>SousChefInstaller</Title>
+    <Publisher>BeOpen.Soft</Publisher>
+    <StartMenuDir>SousChef</StartMenuDir>
+    <TargetDir>@RootDir@/InstallationDirectory</TargetDir>
+    <RemoteRepositories>
+     <Repository>
+             <Url>https://github.com/Nofuq/SousChef/packages<Url>
+             <Enabled>1</Enabled>
+             <Username>user</Username>
+             <Password>password</Password>
+             <DisplayName>Example repository</DisplayName>
+     </Repository>
+</RemoteRepositories>
+</Installer>
