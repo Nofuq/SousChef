@@ -1,0 +1,18 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.beopensoft.root</Name>
+  <DisplayName>SousChefGUI</DisplayName>
+  <Description>Gui part of SousChef Plugin/Description</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2018-01-22</ReleaseDate>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Essential>true</Essential>
+  <UpdateFile OS="Any" CompressedSize="268632" UncompressedSize="1795537"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>549a25759611fcc6f689f1d6cbd8983665ade381</SHA1>
+ </PackageUpdate>
+</Updates>
