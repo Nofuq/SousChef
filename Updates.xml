@@ -1,5 +1,5 @@
 <Updates>
- <ApplicationName>SousChef</ApplicationName>
+ <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
@@ -11,8 +11,8 @@
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Essential>true</Essential>
-  <UpdateFile OS="Any" CompressedSize="268632" UncompressedSize="1795537"/>
+  <UpdateFile OS="Any" UncompressedSize="1795537" CompressedSize="268630"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>549a25759611fcc6f689f1d6cbd8983665ade381</SHA1>
+  <SHA1>e3297da2bafeda036f963c71c0721fdbfce195b5</SHA1>
  </PackageUpdate>
 </Updates>
