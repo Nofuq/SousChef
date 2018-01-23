@@ -6,11 +6,11 @@
   <Name>com.beopensoft.souschef</Name>
   <DisplayName>SouSchef Gui</DisplayName>
   <Description>Экран сушефа.</Description>
-  <Version>0.1.2</Version>
+  <Version>0.1.3</Version>
   <ReleaseDate>2018-08-23</ReleaseDate>
   <Default>true</Default>
   <Essential>true</Essential>
-  <UpdateText>Added settings file</UpdateText>
-  <SHA1>a8226466d78d2dde48bf2e39e2c07ac3b5f713c2</SHA1>
+  <UpdateText>Remade File Tree</UpdateText>
+  <SHA1>8151c6b0726d8d0c703e751209d6d189a58e5659</SHA1>
  </PackageUpdate>
 </Updates>
