@@ -10,7 +10,8 @@
   <ReleaseDate>2018-08-23</ReleaseDate>
   <Default>true</Default>
   <Essential>true</Essential>
-  <UpdateText>Remade File Tree</UpdateText>
-  <SHA1>8151c6b0726d8d0c703e751209d6d189a58e5659</SHA1>
+  <UpdateFile OS="Any" CompressedSize="17932894" UncompressedSize="101533885"/>
+  <DownloadableArchives>SousChef.7z</DownloadableArchives>
+  <SHA1>4954bfae6c6748edd8000d8eed08c49da6a4608d</SHA1>
  </PackageUpdate>
 </Updates>
