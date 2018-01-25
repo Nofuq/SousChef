@@ -6,12 +6,12 @@
   <Name>com.beopensoft.souschef</Name>
   <DisplayName>SouSchef Gui</DisplayName>
   <Description>Экран сушефа.</Description>
-  <Version>0.1.4</Version>
+  <Version>0.2.0</Version>
   <ReleaseDate>2018-08-23</ReleaseDate>
   <Default>true</Default>
   <Essential>true</Essential>
-  <UpdateFile OS="Any" UncompressedSize="101533885" CompressedSize="17908366"/>
+  <UpdateFile CompressedSize="14764648" UncompressedSize="57641627" OS="Any"/>
   <DownloadableArchives>package.7z</DownloadableArchives>
-  <SHA1>259e1ce33b3b1b591857c65f4e094ceef636d1a3</SHA1>
+  <SHA1>33855d4b1d211d5a68ebca5f332fb674bf77f2e2</SHA1>
  </PackageUpdate>
 </Updates>
